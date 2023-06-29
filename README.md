@@ -1,1 +1,1 @@
-# pracitce-terraform
+# learnterraformmodule
